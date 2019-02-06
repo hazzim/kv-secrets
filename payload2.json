@@ -1,0 +1,4 @@
+{
+  "password": "superSecretPassword",
+  "policies": "azurecred_secrets_owner"
+}
